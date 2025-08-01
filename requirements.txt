@@ -1,5 +1,0 @@
-streamlit
-requests
-sgp4
-pandas
-pytz
